@@ -1,0 +1,19 @@
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\bin\Debug\DoItTaskScheduler.exe.config
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\bin\Debug\DoItTaskScheduler.exe
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\bin\Debug\DoItTaskScheduler.pdb
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.Form1.resources
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.Properties.Resources.resources
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.csproj.GenerateResource.cache
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.exe
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.pdb
+C:\Users\rohan\Desktop\Projects\.NET\C#\WinForm Application\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.csprojAssemblyReference.cache
+C:\Users\rohan\Documents\Git-Projects\Projects\.NET\C#\WindowsFormApplications\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\bin\Debug\DoItTaskScheduler.exe.config
+C:\Users\rohan\Documents\Git-Projects\Projects\.NET\C#\WindowsFormApplications\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\bin\Debug\DoItTaskScheduler.exe
+C:\Users\rohan\Documents\Git-Projects\Projects\.NET\C#\WindowsFormApplications\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\bin\Debug\DoItTaskScheduler.pdb
+C:\Users\rohan\Documents\Git-Projects\Projects\.NET\C#\WindowsFormApplications\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.Form1.resources
+C:\Users\rohan\Documents\Git-Projects\Projects\.NET\C#\WindowsFormApplications\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.Properties.Resources.resources
+C:\Users\rohan\Documents\Git-Projects\Projects\.NET\C#\WindowsFormApplications\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.csproj.GenerateResource.cache
+C:\Users\rohan\Documents\Git-Projects\Projects\.NET\C#\WindowsFormApplications\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\rohan\Documents\Git-Projects\Projects\.NET\C#\WindowsFormApplications\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.exe
+C:\Users\rohan\Documents\Git-Projects\Projects\.NET\C#\WindowsFormApplications\Do It - Task Scheduler\Source\DoItTaskScheduler\DoItTaskScheduler\obj\Debug\DoItTaskScheduler.pdb

@@ -1,0 +1,4 @@
+﻿The applicatin must be able to :
+
+let user create task,
+let user create timed task
